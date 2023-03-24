@@ -1,4 +1,4 @@
-# QAP12-onl
+# Тестирование добавления метки i18n к html-тегам 
 
 Установка проекта на локальный компьютер:
 1. git clone https://github.com/DmitryKhilko/test-i18n.git - клонирование проекта

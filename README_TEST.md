@@ -1,7 +1,7 @@
 # QAP12-onl
 
 Установка проекта на локальный компьютер:
-1. git clone https://github.com/DmitryKhilko/QAP12-onl.git - клонирование проекта
+1. git clone https://github.com/DmitryKhilko/test-i18n.git - клонирование проекта
 2. pip3 install -r requirements.txt - установка пакетов
 
 Описание тестовой функции search_i18n:
